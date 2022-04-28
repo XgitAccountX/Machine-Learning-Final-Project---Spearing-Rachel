@@ -35,6 +35,6 @@ The relationship between saturated fats and calories. It seems that drawing a li
 Second was oils versus calories. It appears if you add more oils, your calories will go up, though not drastically.
 ![oilsgraphImport](https://user-images.githubusercontent.com/95445097/165677369-e84b9372-a48f-405e-befe-64b8d5c8955e.png)
 
-Third The mean of calories plotted against the portion amount, set to one cup to make things fair in a scatter plot.
+Third The mean of calories plotted against the portion amount, set to one cup to make things fair in a scatter plot. It seems that the calories for each item will increase slightly for each portion size.
 
 ![Picture3Import](https://user-images.githubusercontent.com/95445097/165677384-b9d8fe62-7bdc-4bcc-8511-651b13ae41f8.png)
